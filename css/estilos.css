@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:ital,wght@1,700&display=swap');
+
+*{box-sizing: border-box;}
+*{width: 100%;}
+
+body{color: #333;
+font-family: 'Roboto', sans-serif;
+font-size: 24px;
+margin: 0;
+}
+
+.layout{ width: 80%;}
+
+header{display: flex;
+justify-content: center;}
+
+header .layout{display: flex;
+justify-content: space-between;}
+
+header nav ul{display: flex;
+list-style-type: none;
+}
+
+header nav ul li a{ color: #333;
+    text-decoration: none;}
+
+header nav ul{margin-left: 50px;}
+
+header nav{align-items: center;}
+
+header h1{font-weight: 700;
+    font-size: 30px;
+    }
+
+header h1, nav h1, footer h1{ font-family: 'Coiny', cursive;}
+
+header h2{Width:483px;
+    Height:23px;
+    Top:392px;
+    Left:142px;}
+
+main .layout{display: flex;
+justify-content: space-between;
+height: 800px;}
+
+main p {Width:492px;
+    Height:135px;
+    Top:485px;
+    Left:139px;}
+
+main {display: flex;
+justify-content: center;}
+
+main .uno h1 strong
+{ font-family: 'Coiny', cursive;
+font-size: 60px;
+}
+
+main .uno h2, h3 {background-color: #FCEE21;}
+main .dos h3 {background-color: #FCEE21;}
+
+main .layout .uno, .dos {width: 40%;}
+
+.tres {display: flex;
+justify-content: center;}
+
+.tres .layout {display: flex;
+justify-content: space-between;
+}
+.tres .layout img{ width: 40%;}
+
+.tres .layout div {width: 40%;}
+.tres .layout div strong {background-color: #FCEE21;}
+
+.cuatro {display: flex;
+justify-content: center;
+}
+
+.cuatro .layout{ display: flex;
+justify-content: space-between;
+height: 500px;
+}
+
+.cuatro .layout .titulo {width: 40%;
+    padding: 20px;
+}
+.cuatro .layout .formulario {width: 40%;
+    margin-top: 50px;
+}
+
+
+div button{ background-color: black;
+color: white;
+width: 45%;
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+}
+
+.cuatro .layout div h4
+{background-color: black;
+color: white;
+font-size: 48px;
+}
+
+.cuatro .layout div p{background-color: #FCEE21;
+font-size: 32px;}
+
+
+.cinco {display: flex;
+justify-content: center;}
+
+.cinco .layout aside {display: flex;
+justify-content: space-between;
+}
+
+.cinco .layout aside a{ margin 10%;
+margin-right: 90px;}
+
+footer{display: flex;
+justify-content: right;
+background-color: #FCEE21;}
+
+footer h1{color: black;}
+
+footer a{color: black;
+    font-weight:400;
+    font-size:21px;
+    margin-top: 55px;
+margin-right: 600px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
